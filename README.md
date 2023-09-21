@@ -1,3 +1,5 @@
+### ROZWIĄZANE
+
 ## Zadania do realizacji
 
 ## 1. Policz elementy w tabeli
